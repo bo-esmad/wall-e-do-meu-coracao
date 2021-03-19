@@ -1,0 +1,73 @@
+body {
+    margin: 0;
+    background-color: #fafafa;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+header {
+    background-color: #c27f46;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    box-shadow: 0 3px 10px 3px #888;
+}
+
+header h1 {
+    color: whitesmoke;
+    font-size: 50px;
+}
+
+h1, h2 {
+    font-family: 'Luckiest Guy', cursive;
+}
+
+header img {
+    width: 300px;
+    height: 300px;
+    border-radius: 160px;
+    object-fit: cover; 
+    border: 10px solid #083e6c;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+main img {
+    width: 100%;
+}
+
+h2 {
+    color: #f84639;
+}
+
+a {
+    color: #f84639;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #083e6c;
+    text-decoration: underline;
+}
+
+footer {
+    background-color: #c27f46;
+    text-align: center;
+    color: whitesmoke;
+    padding: 50px;
+    box-shadow: 0 -3px 10px 3px #888;
+}
+
+.caption {
+    color: #8888;
+    font-size: 18px;
+    margin-top: -10px;
+}
+
+.about {
+    margin-top: -20px;
+}
